@@ -1,5 +1,5 @@
 # project1
-## ExceptionHandler with RestControllerAdvice
-## Custom Annotaion
-## Custom Exception
-## ModelMapper: convertData Dto <-> Entity
+### ExceptionHandler with RestControllerAdvice
+### Custom Annotation - @PhoneDuplicate
+### Custom Exception - PersonNotFoundException
+### ModelMapper Config STRICT: Entity class -> Dto class
